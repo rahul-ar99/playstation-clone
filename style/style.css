@@ -1,0 +1,62 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+body{
+
+}
+/* --------------------------header ----------------------- */
+header{
+    width: 100%;
+}
+header .sonyTag{
+    background-color: black;
+    display: flex;
+    justify-content: right;
+}
+header .sonyTag img{
+    width: 80px;
+    margin: 10px ;
+    /* height: 50px; */
+    filter:invert()
+}
+header nav{
+}
+
+header nav .navLeft{
+
+}
+header nav .navLeft h1{
+
+}
+header nav .navLeft h1 a{
+
+}
+header nav .navLeft h1 a img{
+    width: 30px;
+}
+header nav .navli{
+    
+}
+header nav .navli p{
+
+}
+header nav .navli p i{
+
+}
+header nav .navRight{
+    
+}
+header nav .navRight button{
+
+}
+header nav .navRight .search{
+
+}
+header nav .navRight .search input{
+
+}
+
+
+
+/* ---------------------------- header tag end -------------------- */
